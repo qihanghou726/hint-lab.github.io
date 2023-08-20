@@ -9,7 +9,7 @@ main:
   contact_note: 如何找到我。
   description: 描述？
   footer_text: > # the ">" symbol means to ignore newlines until "titles:"
-    支持自 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 和 <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+    <a href="https://www.shu.edu.cn/" target="_blank">上海大学 </a>  <a href="https://cs.shu.edu.cn/" target="_blank">计算机工程与科学学院</a>.
   
 titles:
   about: 主页
