@@ -70,8 +70,9 @@ months:
     december: 12月
 news:
   titles:
-    announcement_1: 支持中文了!
-    announcement_2: 一篇论文被SEKE23接收
+    announcement_1: 实验室主页支持中文了!
+    announcement_2: 一篇论文被SEKE23接收！
+    announcement_3: 全能的小薯助手v0.1测试版上线了！
 pagination:
   newer: 近期
   older: 往期

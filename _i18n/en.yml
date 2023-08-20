@@ -72,9 +72,9 @@ months:
 
 news:
   titles:
-    announcement_1: Support Chinese!
-    announcement_2: SEKE23
-    
+    announcement_1: Our Website Support Chinese!
+    announcement_2: A paper was accepted by SEKE23!
+    announcement_3: SHU_Chat is available now!
 pagination:
   newer: Newer
   older: Older
