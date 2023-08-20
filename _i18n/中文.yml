@@ -18,7 +18,7 @@ titles:
   people: 成员
   blog: 文章
   cv: 简历
-  publication: 文献
+  publication: 论文
   repository: 代码
   selected_publication: 精选文章
   teaching: 教学
@@ -32,7 +32,7 @@ descriptions:
   archive-tag: um arquivo de postagens com este marcador
   archive-year: um arquivo de postagens deste ano
   blog: blogging
-  publication: 发表文献按时间倒序排列。
+  publication: 发表论文按时间倒序排列。
   projects: 我参与中/过的项目……
   repository: 代码仓库
   teaching: 课程资料
