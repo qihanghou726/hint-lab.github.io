@@ -10,7 +10,7 @@ email: test@example.com
 keywords: Human-machine interaction  # add your own keywords or leave empty
 
 lang: zh # the main language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://hint-lab.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
