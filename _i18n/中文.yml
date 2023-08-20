@@ -1,0 +1,128 @@
+not_found:
+  message: 您将在3秒内被重定向到主页。如果没有重定向，请使用返回键
+  main_page: 主页
+main:
+  address: >
+    <p>+86 </p>
+    <p>123 街道地址</p>
+    <p>中国香港, 清水湾 12345</p>
+  contact_note: 如何找到我。
+  description: 描述？
+  footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+    支持自 <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> 和 <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
+  
+titles:
+  about: 主页
+  news: 近况
+  project: 项目
+  people: 成员
+  blog: 文章
+  cv: 简历
+  publication: 文献
+  repository: 代码
+  selected_publication: 精选文章
+  teaching: 教学
+  submenus: 子目录
+  unk: 无法访问
+  subtitle:  H!NT ｜ 人机交互与自然语言理解实验室
+descriptions:
+  about: 主页
+  people: (截止到2023年8月)
+  archive-category: 结构分类
+  archive-tag: um arquivo de postagens com este marcador
+  archive-year: um arquivo de postagens deste ano
+  blog: blogging
+  publication: 发表文献按时间倒序排列。
+  projects: 我参与中/过的项目……
+  repository: 代码仓库
+  teaching: 课程资料
+  unk: Parece que ocorreu um erro. Não existe nada aqui.
+blog:
+  description: um tema simples para acadêmicos
+  name: blog al-folio em português brasileiro # blog_name will be displayed in your blog page
+  nav_title: 博客 # your blog must have a title for it to be displayed in the nav bar
+months:
+  long:
+    january: 一月
+    february: 二月
+    march: 三月
+    april: 四月
+    may: 五月
+    june: 六月
+    july: 七月
+    august: 八月
+    september: 九月
+    october: 十月
+    november: 十一月
+    december: 十二月
+  short:
+    january: 01月
+    february: 02月
+    march: 03月
+    april: 04月
+    may: 05月
+    june: 06月
+    july: 07月
+    august: 08月
+    september: 09月
+    october: 10月
+    november: 11月
+    december: 12月
+news:
+  titles:
+    announcement_1: 支持中文了!
+    announcement_2: 一篇论文被SEKE23接收
+pagination:
+  newer: 近期
+  older: 往期
+projects:
+  titles:
+    project1: 项目 1
+    project2: 项目 2
+    project3: 项目 3
+    project4: 项目 4
+    project5: 项目 5
+    project6: 项目 6
+  descriptions:
+    project1: 项目描述1
+    project2: 项目描述1
+    project3: 项目描述1
+    project4: 项目描述1
+    project5: 项目描述1
+    project6: 项目描述1
+  categories:
+    fun: 业余项目
+    work: 工作项目
+    pre: 过往项目
+    cur: 当前工作
+
+repository:
+  users: GitHub用户
+  repos: GitHub仓库
+
+people:
+  categories:
+    professor: 教师
+    graduate: 研究生
+    undergraduate: 本科生
+  zhu_pinpin: 
+    name: 朱频频
+    position: 教授
+  wang_hao: 
+    name: 王 昊
+    position: 讲师
+  chen_xiahua: 
+    name: 陈夏华
+    position: 硕士M3
+  li_tang: 
+    name: 李 唐
+    position: 硕士M3
+  wang_changqing: 
+    name: 王常青
+    position: 硕士M2
+  wang_qingxuan:
+    name: 王庆旋
+    position: 硕士M2
+  chen_bin:
+    name: 陈 斌
+    position: 硕士M2

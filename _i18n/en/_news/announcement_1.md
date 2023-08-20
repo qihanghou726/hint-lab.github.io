@@ -1,0 +1,1 @@
+Update a new version of our lab website homepage which support Simple Chinese now!:sparkles: :smile: 
