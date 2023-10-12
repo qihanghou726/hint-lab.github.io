@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://hint-lab.github.io/中文/sitemap.xml
