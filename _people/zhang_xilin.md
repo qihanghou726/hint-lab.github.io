@@ -4,7 +4,6 @@ title: people.zhang_xilin.name
 description: people.zhang_xilin.position
 img: /assets/img/amuli/zhang_xilin.png
 importance: 24
-importance: 24
 permalink: /people/zhang_xilin
 category: graduate
 profile:

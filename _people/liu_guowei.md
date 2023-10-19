@@ -4,7 +4,6 @@ title: people.liu_guowei.name
 description: people.liu_guowei.position
 img: /assets/img/amuli/liu_guowei.png
 importance: 24
-importance: 24
 permalink: /people/liu_guowei
 category: graduate
 profile:
